@@ -1,6 +1,9 @@
-## Hi! My name is Vy
+## ⭐️ Hi! My name is Vy! 
 
 🌱 I'm currently a junior studying computer science at the University of Illinois Urbana-Champaign. 
+
+📫 Email: vyhnguyen78@gmail.com<br>
+💻 LinkedIn: [vy-nguyen0210](https://www.linkedin.com/in/vy-nguyen0210/)<br>
 
 <!--
 **vy-nguyen7/vy-nguyen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
