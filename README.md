@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! My name is Vy
+
+🌱 I'm currently a junior studying computer science at the University of Illinois Urbana-Champaign. 
 
 <!--
 **vy-nguyen7/vy-nguyen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
